@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Faasquit123
+- 👋 Hi, I’m Faasquit123!
 - 👀 I’m interested in Half-Life Modding
-- 🌱 I’m currently learning C++ and writing kernel
-
-<!---
-Sup
---->
+- 🌱 I’m currently learning C++
+- 
